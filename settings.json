@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sweeper.aternos.host:49143",
+    "ip": "RyanXP_000.aternos.me",
     "port": 49143,
     "version": "1.21.1",
     "try-creative": false
@@ -19,8 +19,8 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "chalol78"
+      "enabled": false,
+      "password": ""
     },
     "anti-afk": {
       "enabled": true,
