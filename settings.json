@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sweeper.aternos.host",
+    "ip": "sweeper.aternos.host:49143",
     "port": 49143,
     "version": "1.21.1",
     "try-creative": false
